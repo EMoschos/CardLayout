@@ -1,0 +1,16 @@
+img {
+    height: 150px;
+    width: 150px;
+}
+
+.pad {
+padding-top: 25px;
+}
+
+h1 {
+    color: white;
+}
+
+.card {
+    margin-bottom: 50%;
+}
